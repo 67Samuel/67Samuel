@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @67Samuel, a final year student at SUTD.
-- 👀 I’m interested in software development, especially Android App development!
-- 🌱 I’m currently learning Android App development and cybersecurity
+- 👀 I’m interested in Cybersecurity and Networks
+- 🌱 I’m currently focused on learning Cybersecurity
 - 📫 How to reach me: samuelhky@outlook.sg
 
 <!---
