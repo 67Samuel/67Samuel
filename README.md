@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @67Samuel, a final year student at SUTD.
-- 👀 I’m interested in Cybersecurity and Networks
-- 🌱 I’m currently focused on learning Cybersecurity
+- 👀 I’m interested in Frontend Development
 - 📫 How to reach me: samuelhky@outlook.sg
 
 <!---
