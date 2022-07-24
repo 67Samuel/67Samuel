@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @67Samuel, a final year student at SUTD.
-- 👀 I’m interested in Frontend Development
+- 👀 I’m interested in Android Application Development (but am keen to broaden my knowledge!)
+- 📚 I'm currently learning Flutter!
 - 📫 How to reach me: samuelhky@outlook.sg
 
 <!---
