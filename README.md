@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @67Samuel, a final year student at SUTD.
+- 👋 Hi, I’m @67Samuel
 - 👀 I’m interested in Android Application Development (but am keen to broaden my knowledge!)
-- 📚 I'm currently learning Flutter!
+- 🖥️ I'm currently a BFA Android Developer
 - 📫 How to reach me: samuelhky@outlook.sg
 
 <!---
