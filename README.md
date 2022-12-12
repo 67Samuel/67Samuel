@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @67Samuel
-- 👀 I’m interested in Android Application Development (but am keen to broaden my knowledge!)
-- 🖥️ I'm currently a BFA Android Developer
+- 👀 Android App Developer
+- 🖥️ Currently working on a Barrier-Free Access project
 - 📫 How to reach me: samuelhky@outlook.sg
 
 <!---
