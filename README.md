@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @67Samuel
 - 👀 Android App Developer
-- 🖥️ Currently working on a Barrier-Free Access project @SLA
+- 🖥️ Currently working on a Barrier-Free Access project @[SLA](https://www.sla.gov.sg/)
 - 📫 How to reach me: samuelhky@outlook.sg
 
 <!---
